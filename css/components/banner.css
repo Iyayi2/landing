@@ -1,0 +1,16 @@
+.banner {
+  background-image: url("https://codetheweb.blog/assets/img/posts/css-advanced-background-images/cover.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  color: white;
+}
+
+.banner a {
+  border-radius: 25px;
+  background-color: rgb(71, 71, 241);
+  padding: 9px 28px;
+  color: white;
+  display: inline-block;
+}
+
